@@ -22,7 +22,13 @@ Analyzing order and refund trends from 2019-2022. Interactive Tableau dashboard 
 
 # Recommendations & Next Steps
 
-● Investigate why Bose Headphones and Apple iPhones are underperforming. <br>
-● Investigate why the affiliate and social media marketing channels are underforming and how it could be improved. 
+**Revenue and Product Trends:**
+
+Focus on High-Performing Products: AirPods and iPhones show significant sales volume but have seen a decline over time. Consider introducing new models, bundling deals, or discounts to rejuvenate sales. <br>
+Phase Out Low-Performing Products: Products like the Bose Headphones and Apple iPhones show consistently low sales. Analyze whether they are essential to the product lineup or if they can be phased out to focus on higher-performing items. 
+
+**Marketing Channel Optimization:**
+
+● Shift more budget and effort for the direct and mail marketing channels while reevaluating or or discontinuing the affiliate and social media marketing channels. 
 
 
