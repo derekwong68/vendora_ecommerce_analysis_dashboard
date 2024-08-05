@@ -1,7 +1,8 @@
 # Vendora Ecommerce Analysis (2019-2022)
 
 Analyzing order and refund trends from 2019-2022. Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/derek.wong6763/viz/VendoraSalesTrendDashboard/Dashboard1?publish=yes).
-![Dashboard 1 (1)](https://github.com/user-attachments/assets/83a0a6e1-5cae-4495-aebf-e8665ecd8c8c)
+![Dashboard 1 (3)](https://github.com/user-attachments/assets/05db8d48-ff2c-4a1f-851e-4d13e1aca2c1)
+
 
 
 # Summary of Insights
@@ -17,6 +18,10 @@ Analyzing order and refund trends from 2019-2022. Interactive Tableau dashboard 
 
 **Avg Time to Ship:**
 
-● 
-
+● Most products range from 3-4 days with the Bose Headphone and Apple iPhone ranging from 1 to 6 days due to having little orders.
 # Recommendations & Next Steps
+
+● Investigate why Bose Headphones and Apple iPhones are underperforming. 
+● Investigate why the affiliate and social media marketing channels are underforming and how it could be improved. 
+
+
