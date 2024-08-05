@@ -1,6 +1,6 @@
 # Vendora Ecommerce Analysis (2019-2022)
 
-Analyzing order and refund trends from 2019-2022. Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/derek.wong6763/viz/VendoraSalesTrendDashboard/Dashboard1?publish=yes)(https://public.tableau.com/app/profile/derek.wong6763/viz/VendoraSalesTrendDashboard/Dashboard1).
+Analyzing order and refund trends from 2019-2022. Interactive Tableau dashboard can be found [here][(https://public.tableau.com/app/profile/derek.wong6763/viz/VendoraSalesTrendDashboard/Dashboard1?publish=yes)](https://public.tableau.com/app/profile/derek.wong6763/viz/VendoraSalesTrendDashboard/Dashboard1)(https://public.tableau.com/app/profile/derek.wong6763/viz/VendoraSalesTrendDashboard/Dashboard1).
 ![Dashboard 1 (3)](https://github.com/user-attachments/assets/05db8d48-ff2c-4a1f-851e-4d13e1aca2c1)
 
 
