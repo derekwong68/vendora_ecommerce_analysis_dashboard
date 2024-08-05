@@ -29,6 +29,6 @@ Analyzing order and refund trends from 2019-2022. Interactive Tableau dashboard 
 
 **Marketing Channel Optimization:**
 
-● Shift more budget and effort for the direct and mail marketing channels while reevaluating or or discontinuing the affiliate and social media marketing channels. 
+  ● Shift more budget and effort for the direct and mail marketing channels while reevaluating or or discontinuing the affiliate and social media marketing channels. 
 
 
