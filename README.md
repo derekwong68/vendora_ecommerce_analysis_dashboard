@@ -24,7 +24,7 @@ Analyzing order and refund trends from 2019-2022. Interactive Tableau dashboard 
 
 **Revenue and Product Trends:**
 
-  ● **Focus on High-Performing Products:** AirPods and iPhones show significant sales volume but have seen a decline over time. Consider introducing new models, bundling deals, or discounts to rejuvenate sales. <br>
+  ● **Focus on High-Performing Products:** AirPods and iPhones show significant sales volume but have seen a decline over time. Consider introducing new models, bundling deals, or discounts to rejuvenate sales. <br> <br>
   ● **Phase Out Low-Performing Products:** Products like the Bose Headphones and Apple iPhones show consistently low sales. Analyze whether they are essential to the product lineup or if they can be phased out to focus on higher-performing items. 
 
 **Marketing Channel Optimization:**
