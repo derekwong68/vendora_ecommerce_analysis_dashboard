@@ -13,15 +13,16 @@ Analyzing order and refund trends from 2019-2022. Interactive Tableau dashboard 
 
 **Sales:**
 
-● Though the gaming monitor had the highest amount of orders, Airpods generated the most sales and made up nearly 40-50% of all sales from 2019-2022. 
+● Though the gaming monitor had the highest amount of orders, Airpods generated the most sales and made up nearly 40-50% of all sales from 2019-2022. <br>
 ● Most of the sales were made through direct marketing channels with email in second.
 
 **Avg Time to Ship:**
 
 ● Most products range from 3-4 days with the Bose Headphone and Apple iPhone ranging from 1 to 6 days due to having little orders.
+
 # Recommendations & Next Steps
 
-● Investigate why Bose Headphones and Apple iPhones are underperforming. 
+● Investigate why Bose Headphones and Apple iPhones are underperforming. <br>
 ● Investigate why the affiliate and social media marketing channels are underforming and how it could be improved. 
 
 
